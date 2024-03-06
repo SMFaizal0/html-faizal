@@ -1,0 +1,142 @@
+.login-form{
+    display: flex;
+    
+    justify-content: center;  
+background: #fbfbfb;      
+    padding-top:120px;
+    padding-left:120px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+    background-color: rgba(87, 73, 73, 0.164);
+}
+.login-box{
+    align-items: center;
+    align-content: center;
+box-sizing: border-box;
+background-color: white;
+width: 500px;
+
+
+}
+.nav a{
+    color: #fbfbfb;
+text-decoration: none;
+
+}
+
+
+
+    body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+margin: 0px;
+padding: 0px;
+display: block;
+    background:black;
+    color: beige;
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+    justify-content: space-evenly;
+    background-color:black;
+color: white;
+padding-top: 5px;
+
+}
+.block-header{
+ display: flex;   
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 24px;
+    padding-right: 24px;
+    align-items:center;
+    
+       
+}
+
+
+.footer-list {
+    
+text-decoration: none;
+color:white;
+text-align: center;
+
+}
+ul{
+    list-style:none ;
+}
+.footer-list a  {
+    text-align: center;
+    color: white;
+    
+    text-decoration:none ;
+
+}
+nav  {
+    display: inline-block;
+    background-color: black;
+    color: white;
+
+    
+}
+.block-body-1{
+    display: inline-block;
+    color: black;
+    padding-top: 24px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 36px;
+}
+.block-body-2{
+    display: inline-block;
+    color: black;
+    padding-top: 1px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 3px;
+}
+.block-footer{
+    display: block;
+    color: black;
+    padding-top: 24px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 19px;
+    
+}
+.block-button{
+    
+    text-align: end;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 19px;
+    
+}
+form{
+    color: black;
+    
+}
+input{
+ text-align: start;
+ 
+ 
+ width: 310px;
+ 
+}
+.block-icon {
+height: 30px;
+
+}
+.block-button{
+    display:flex;
+    justify-content: end;
+}
+.input-box-1{
+    display: flex;
+align-items: center;
+
+}
+.input-box-2{
+    display: flex;
+    align-items: center;
+}
